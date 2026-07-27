@@ -1,0 +1,39 @@
+🟢 Easy
+List all restaurants available in each city.
+Find the top 10 highest-rated restaurants.
+Count the number of restaurants in every city.
+Find the average price of restaurants in each city.
+List restaurants having ratings greater than 4.5.
+Find the most expensive restaurants.
+Count restaurants by Food Type.
+🟡 Intermediate
+Find the highest-rated restaurant in every city.
+Find the average delivery time in every city.
+Find the top 5 most expensive restaurants in every city.
+Compare average ratings of each food type.
+Find restaurants with above-average ratings.
+Count restaurants available in every area.
+Find cities having more than 100 restaurants.
+Find restaurants whose delivery time is below the city average.
+Find the food type having the highest average rating.
+🔴 Advanced
+1.Rank restaurants within every city based on rating.
+2.Rank restaurants based on shortest delivery time.
+3.Find the top 3 restaurants in every city based on ratings.
+4.Find restaurants whose price is higher than the average price of their city.
+5.Find the city having the highest average restaurant rating.
+6.Find restaurants having both high ratings and low delivery time.
+7.Prepare a city-wise dashboard showing:
+-Total Restaurants
+-Average Price
+-Average Rating
+-Average Delivery Time
+8.Rank food types by popularity using total ratings.
+9.Prepare a Power BI dataset containing:
+-City
+-Restaurant Count
+-Average Rating
+-Average Price
+-Average Delivery Time
+-Top Rated Restaurant
+-Most Common Food Type
